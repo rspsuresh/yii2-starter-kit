@@ -84,8 +84,7 @@ Required PHP extensions:
 	DB_DSN           = mysql:host=127.0.0.1;port=3306;dbname=yii2-starter-kit
 	DB_USERNAME      = user
 	DB_PASSWORD      = password
-	```
-
+	``
 	- Set application canonical urls
 	```
 	FRONTEND_HOST_INFO    = http://yii2-starter-kit.localhost
